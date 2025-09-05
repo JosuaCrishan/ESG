@@ -1,4 +1,4 @@
-# Coqui TTS Prototype with Emotion Control
+# Emotional Speech Generation using Coqui TTS
 
 ## Overview
 Convert input text into a `.wav` file using **Coqui TTS (XTTS-v2)**.  
